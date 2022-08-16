@@ -2,7 +2,7 @@
 
 *Blog：[juejin/chrisliu12138](https://juejin.cn/user/1904826896880104 "chrisliu12138 juejin.cn")*
 
-*LeetCode：[leetcode/chrisliu12138](leetcode-cn.com/u/chrisliu12138/ "chrisliu12138 leetcode.cn")*
+*LeetCode：[leetcode/chrisliu12138](https://leetcode-cn.com/u/chrisliu12138 "chrisliu12138 leetcode.cn")*
 
 Go语言核心知识点梳理，帮助和我一样从C++、Java转Go，并且使用Go作为主语言备战秋招的小白快速学习Go语言基础知识（重点是和其他语言的差异部分），从基础到web开发项目、gin等框架的应用，从0到1024，最终夯实基础，拿到心仪的大厂offer！
 
