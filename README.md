@@ -22,6 +22,8 @@ Golang core knowledge points comb, help someone like me from C++, Java to Go, an
 
 * [Go语言基础必备知识点(四) map篇](https://juejin.cn/post/7132385924737925150 "chrisliu12138 juejin.cn")
 
+* [Go语言基础必备知识点(五) 函数(闭包)、延迟调用、异常处理篇](https://juejin.cn/post/7133221813932261384 "chrisliu12138 juejin.cn")
+
 * [二分查找最全 4 大变种题 (Golang)](https://juejin.cn/post/7132774314335535117 "chrisliu12138 juejin.cn")
 
 As a result of the previous study of 408 professional basics, after deciding to study abroad IELTS and other English results study time basically replaced the coding time, so for Java syntax, Java internships and projects, SSM framework, SVM and other basic knowledge has been slightly forgotten. 
