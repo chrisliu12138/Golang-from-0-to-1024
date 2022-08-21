@@ -24,6 +24,8 @@ Golang core knowledge points comb, help someone like me from C++, Java to Go, an
 
 * [Go语言基础必备知识点(五) 函数(闭包)、延迟调用、异常处理篇](https://juejin.cn/post/7133221813932261384 "chrisliu12138 juejin.cn")
 
+* [Go语言基础必备知识点(六) 条件、循环语句篇](https://juejin.cn/post/7134305534945165319 "chrisliu12138 juejin.cn")
+
 * [二分查找最全 4 大变种题 (Golang)](https://juejin.cn/post/7132774314335535117 "chrisliu12138 juejin.cn")
 
 * [双指针 (快慢指针) 原地操作数组 (Golang)](https://juejin.cn/post/7133608271889301511 "chrisliu12138 juejin.cn")
