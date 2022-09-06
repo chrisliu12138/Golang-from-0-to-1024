@@ -30,6 +30,8 @@ Golang core knowledge points comb, help someone like me from C++, Java to Go, an
 
 * [Go语言基础必备知识点(八) 接口篇](https://juejin.cn/post/7138068989330063367 "chrisliu12138 juejin.cn")
 
+* [Go语言基础必备知识点(九) 包(package)、init函数、go mod篇](https://juejin.cn/post/7140290437968822280 "chrisliu12138 juejin.cn")
+
 * [二分查找最全 4 大变种题 (Golang)](https://juejin.cn/post/7132774314335535117 "chrisliu12138 juejin.cn")
 
 * [双指针 (快慢指针) 原地操作数组 (Golang)](https://juejin.cn/post/7133608271889301511 "chrisliu12138 juejin.cn")
