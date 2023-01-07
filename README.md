@@ -1,5 +1,7 @@
 # Golang-from-0-to-1024
 
+Author: Hao Liu
+
 *Blog：[juejin/chrisliu12138](https://juejin.cn/user/1904826896880104 "chrisliu12138 juejin.cn")*
 
 *LeetCode：[leetcode/chrisliu12138](https://leetcode-cn.com/u/chrisliu12138 "chrisliu12138 leetcode.cn")*
