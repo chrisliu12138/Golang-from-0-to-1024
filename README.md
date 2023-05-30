@@ -42,7 +42,7 @@ Golang core knowledge points comb, help someone like me from C++, Java to Go, an
 
 * [双指针... 梦结束的地方 LeetCode 844. 比较含退格的字符串 (Golang)](https://juejin.cn/post/7135717315877797925 "chrisliu12138 juejin.cn")
 
-* [Go语言工程实践之测试](https://juejin.cn/post/7238921093553193019 "chrisliu12138 juejin.cn")
+* [Go语言工程实践之测试 | 青训营笔记](https://juejin.cn/post/7238921093553193019 "chrisliu12138 juejin.cn")
 
 As a result of the previous study of 408 professional basics, after deciding to study abroad IELTS and other English results study time basically replaced the coding time, so for Java syntax, Java internships and projects, SSM framework, SVM and other basic knowledge has been slightly forgotten. 
 
