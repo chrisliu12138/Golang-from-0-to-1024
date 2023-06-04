@@ -46,6 +46,8 @@ Golang core knowledge points comb, help someone like me from C++, Java to Go, an
 
 * [Go语言进阶与依赖管理 | 青训营笔记](https://juejin.cn/spost/7239516348435071034 "chrisliu12138 juejin.cn")
 
+* [认识存储与数据库 | 青训营笔记](https://juejin.cn/spost/7240765897769762875 "chrisliu12138 juejin.cn")
+
 As a result of the previous study of 408 professional basics, after deciding to study abroad IELTS and other English results study time basically replaced the coding time, so for Java syntax, Java internships and projects, SSM framework, SVM and other basic knowledge has been slightly forgotten. 
 
 I have been very optimistic about the natural high concurrency of the go language and the fact that more and more big factories are using go to refactor their code and write new projects with go, and the go framework is also in the development stage, so many wheels need to be built by themselves, and many of my classmates around me have been interviewed in Java and then switched to go. I will start from scratch to familiarize myself with the language syntax, gin framework, etc. and use go to brush up on LeetCode, complete the project of mit 6.824 distributed system, etc. I will give up my previous internship and project in Java and challenge a new language!
